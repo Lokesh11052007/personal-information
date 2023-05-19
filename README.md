@@ -2,4 +2,4 @@
 just for assignment
 
 
-click to visit website: https://lokesh11052007.github.io/personal-information/
+click to visit a website: https://lokesh11052007.github.io/personal-information/
